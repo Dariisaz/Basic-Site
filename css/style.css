@@ -8,7 +8,7 @@ body{
     background-color: #d4c0c0;
 }
 
-h1{
+header h1{
     font-size: 70px;
     margin: 10px;
 }
@@ -17,4 +17,27 @@ h1{
     font-size: 20px;
     margin-left: 10px;
     margin-bottom: 10px;
+}
+
+main h1{
+    margin: 40px 20px 20px 20px;
+}
+
+main p{
+    margin: 20px 20px 20px 20px;
+    width: 1000px;
+    font-size: 18px;
+}
+
+#img1{
+    width: 400px;
+    margin: 5px 10px 5px 20px;
+    float: left;
+}
+
+#img2{
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 850px;
+    float: right;
 }
